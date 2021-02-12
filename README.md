@@ -36,7 +36,7 @@ npm i
 
 If you would like to download this to your desktop, be on the look out for the download option in the URL bar.
 
-![App Home Page]("/public/assets/homepage.png")
+![App Home Page](/public/assets/homepage.png)
 
 ---
 
